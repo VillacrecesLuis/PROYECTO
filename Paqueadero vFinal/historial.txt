@@ -1,0 +1,32 @@
+Entrada - Puesto: 6, Placa: LMN456, Hora: Sun Dec 08 21:00:26 2024
+Salida - Puesto: 6, Placa: LMN456, Hora entrada: Sun Dec 08 21:00:26 2024
+, Hora salida: Sun Dec 08 21:01:14 2024
+Entrada - Puesto: 7, Placa: XYZ789, Hora: Sun Dec 08 21:05:01 2024
+Autorizado - Placa: POI123, Propietario: pelo, Hora: Sun Dec 08 21:05:26 2024
+Eliminado - Placa: POI123, Hora: Sun Dec 08 21:05:38 2024
+Entrada - Puesto: 9, Placa: ABC123, Hora: Sun Dec 08 21:09:42 2024
+Salida - Puesto: 9, Placa: ABC123, Hora entrada: Sun Dec 08 21:09:42 2024
+, Hora salida: Sun Dec 08 21:10:34 2024
+Entrada - Puesto: 9, Placa: ABC123, Hora: Sun Dec 08 21:10:51 2024
+Salida - Puesto: 9, Placa: ABC123, Hora entrada: Sun Dec 08 21:10:51 2024
+, Hora salida: Sun Dec 08 21:11:09 2024
+Autorizado - Placa: PBJ1819, Propietario: lolo, Hora: Sun Dec 08 21:48:14 2024
+Autorizado - Placa: PBJ123, Propietario: pito, Hora: Sun Dec 08 21:50:11 2024
+Entrada - Puesto: 10, Placa: ABC123, Hora: Sun Dec 08 21:55:38 2024
+Autorizado - Placa: ABC789, Propietario: Holger, Hora: Sun Dec 08 21:57:37 2024
+Entrada - Puesto: 2, Placa: ABC123, Hora: Sun Dec 08 22:03:27 2024
+Entrada - Puesto: 71, Placa: XYZ789, Hora: Sun Dec 08 22:04:03 2024
+Entrada - Puesto: 20, Placa: ABC123, Hora: Sun Dec 08 22:05:03 2024
+Entrada - Puesto: 20, Placa: ABC123, Hora: Sun Dec 08 22:09:28 2024
+Entrada - Puesto: 15, Placa: ABC123, Hora: Sun Dec 08 22:14:37 2024
+Salida - Puesto: 15, Placa: ABC123, Hora entrada: Sun Dec 08 22:14:37 2024
+, Hora salida: Sun Dec 08 22:17:58 2024
+Autorizado - Placa: PHJ1234, Propietario: uyo, Hora: Sun Dec 08 22:22:49 2024
+Entrada - Puesto: 60, Placa: PHJ1234, Hora: Sun Dec 08 22:23:57 2024
+Entrada - Puesto: 5, Placa: PHJ1234, Hora: Sun Dec 08 22:30:45 2024
+Autorizado - Placa: PJG123, Propietario: uyo, Hora: Sun Dec 08 22:31:14 2024
+Entrada - Puesto: 8, Placa: ABC123, Hora: Sun Dec 08 23:00:54 2024
+Entrada - Puesto: 6, Placa: ABC123, Hora: Sun Dec 08 23:25:37 2024
+Entrada - Puesto: 8, Placa: ABC123, Hora: Sun Dec 08 23:32:50 2024
+Salida - Puesto: 8, Placa: ABC123, Hora entrada: Sun Dec 08 23:32:50 2024
+, Hora salida: Sun Dec 08 23:33:35 2024
